@@ -1,0 +1,32 @@
+[:unselect_cmd: Unselect ]
+0=
+
+[cmdline]
+0=10
+1='C:\\Users\\Morgan\\Downloads\\debil.sql'
+2=[<0;25;18M
+3=
+
+[Dir Hist New Right Panel]
+0=/home/master/.gnupg
+1=/home/master
+2=/root
+
+[Dir Hist New Left Panel]
+0=/home/master/.ssh
+1=/home/master/.gnupg/private-keys-v1.d
+2=/home/master/.gnupg
+3=/home/master/.cache
+4=/home/master
+5=/home
+6=/etc/php
+7=/etc/php/7.4
+8=/etc/php/7.4/fpm
+9=/etc
+10=/
+11=/var/lib
+12=/var
+13=/var/www
+14=/var/www/php/upload
+15=/var/www/php
+16=/root
