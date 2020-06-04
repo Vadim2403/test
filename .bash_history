@@ -257,3 +257,30 @@ mc
 docker-compose up
 docker-compose down
 docker-compose up
+git add .
+git init
+git add .
+git commit -m "test01"
+git push
+git remote add https://github.com/Vadim2403/php
+git push
+git remote add https://github.com/Vadim2403/php.git
+git remote add origin  https://github.com/Vadim2403/php.git
+git push
+git push origin master
+vadim14p03
+git push origin master
+git pullgit pull
+git pull
+git push origin master
+git commit -m "newcommitagain"
+git status
+git add .
+git commit -m "newcommitagain"
+git status
+git init
+git status
+git commits
+git commit
+git branch -u origin/master
+git status
