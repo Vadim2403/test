@@ -284,3 +284,9 @@ git commits
 git commit
 git branch -u origin/master
 git status
+git add .
+git commit -m "maybe"
+git push
+git status
+git pull
+git remove origin
